@@ -1,5 +1,5 @@
 body {
-    background-image:url("pizzabg.jpg");
+    background-image:url("../img/pizzabg.jpg");
     background-size: cover;
     background-attachment: fixed;
     font-family: 'Courier New', Courier, monospace;
@@ -16,7 +16,6 @@ h1 {
 }
 
 .container {
-    color:white;
     text-shadow: 0;
     float: left;
     width: 35%;
@@ -74,7 +73,6 @@ h3 {
     margin: 20px;
     border-radius: 10px;
 }
-
 p {
     text-align: center; 
 }
